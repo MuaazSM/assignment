@@ -1,0 +1,12 @@
+# python
+*.py
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# docs: only the final report is published
+docs/*
+!docs/report.pdf
+
+# os
+.DS_Store

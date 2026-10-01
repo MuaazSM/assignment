@@ -1,0 +1,10 @@
+ipykernel==7.4.0
+jupyter==1.1.1
+jupytext==1.19.5
+matplotlib==3.11.2
+nbconvert==7.17.1
+notebook==7.6.3
+numpy==2.5.3
+pandas==3.0.6
+scikit-learn==1.9.1
+scipy==1.18.1
